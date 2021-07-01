@@ -1,0 +1,141 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "/"
+DefaultContentLanguage  = "en"
+title                   = "Active Northeast"
+theme                   = "future"
+paginate                = 5
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "blog"
+  readingTime           = false
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    author              = "HTML5UP and Hugo"
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Active Northeast"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
+
+  [params.intro]
+    header                = "Active Northeast"
+    paragraph             = "Active & Interactive Holidays in Northeast India"
+    rssIntro              = false
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "img/main/logo.png"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Active Holidays Northeast India"
+
+  [params.sidebar]
+    about               = "Active and Experiential Holidays across Northeast India. Cycling, Walking, Family, Multi-Activity, Overland and River Trips in Northeast India."
+    postAmount          = 9
+    categories          = true
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = false
+    socialFooter        = true
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = "" 
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = ""
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "about"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Tours"
+    identifier        = "Tours"
+    url               = "tours"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Activities"
+    identifier        = "Activities"
+    url               = "categories"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "contact"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 5
+
+
+
+[social]
+
+  # Social Networks
+  facebook              = "https://www.facebook.com/northbynortheastjourneys"
+  instagram             = "https://www.instagram.com/north_by_northeast/"
+  youtube               = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
+  
+
+  # Email
+  email                 = "ingo.northbynortheast@gmail.com"
