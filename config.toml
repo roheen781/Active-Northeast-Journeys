@@ -132,10 +132,10 @@ disableLanguages        = []
 [social]
 
   # Social Networks
-  facebook              = "https://www.facebook.com/northbynortheastjourneys"
-  instagram             = "https://www.instagram.com/north_by_northeast/"
-  youtube               = "https://www.youtube.com/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
+  facebook              = "/northbynortheastjourneys"
+  instagram             = "/north_by_northeast/"
+  youtube               = "/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
   
 
   # Email
-  email                 = "ingo.northbynortheast@gmail.com"
+  email                 = "info.northbynortheast@gmail.com"
