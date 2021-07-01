@@ -133,7 +133,7 @@ disableLanguages        = []
 
   # Social Networks
   facebook              = "/northbynortheastjourneys"
-  instagram             = "/north_by_northeast/"
+  instagram             = "north_by_northeast/"
   youtube               = "/channel/UCoOuUJl2OclF3xM2nCKAlSA/videos"
   
 
