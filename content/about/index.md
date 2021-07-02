@@ -1,8 +1,8 @@
 +++
 title = "About"
 description = "Active and Experiential holidays in Northeast India"
-author = "Hugo Authors"
-date = "2019-02-28"
+author = "North by Northeast Journeys"
+date = "2021-02-28"
 layout = "about"
 +++
 
