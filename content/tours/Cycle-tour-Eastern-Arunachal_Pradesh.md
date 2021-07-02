@@ -7,7 +7,7 @@ tags = ["Easy to Moderate","Arunachal Pradesh"]
 categories = ["Cycling"]
 [[images]]
   src = "img/images/bicycle-tour-eastern-arunachal-pradesh.jpg"
-  alt = "Mountain Range Through Clouds"
+  alt = "Bicycle tour of Eastern Arunachal Pradesh"
   stretch = "horizontal"
 +++
 ---

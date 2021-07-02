@@ -7,7 +7,7 @@ tags = ["Moderate to Strenuous", "Arunachal Pradesh"]
 categories = ["Overland & Motorcycle"]
 [[images]]
   src = "img/images/overland-motorcycle-tour-arunachal-pradesh.jpg"
-  alt = "Adventure,nature and culture tour Assam"
+  alt = "Overland & Motorcycle tour of Arunachal Pradesh"
   stretch = "horizontal"
 +++
 
@@ -63,9 +63,9 @@ Enroute you will get as high 4500mts. The Tawang Monastery, Sungatser Lake, Tse 
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/Assam-Multi-activity-tour.jpg)
+![Motorcycle-Overland-tour-in-Arunachal-Pradesh](/img/images/Motorcycle-Overland-tou-Arunachal-Pradesh.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/motorcycle/)
 
 ---

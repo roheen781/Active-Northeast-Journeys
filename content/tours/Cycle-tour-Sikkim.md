@@ -7,7 +7,7 @@ tags = ["Moderate to Tough","Sikkim & Bengal"]
 categories = ["Cycling"]
 [[images]]
   src = "img/images/cycling-trip-sikkim.jpg"
-  alt = "Bicycle Tour of Sikkim and Bengal"
+  alt = "Bicycle Trip in Sikkim and Bengal"
   stretch = "horizontal"
 +++
 ---

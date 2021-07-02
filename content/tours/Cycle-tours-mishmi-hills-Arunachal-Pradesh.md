@@ -7,15 +7,9 @@ tags = ["Tough","Arunachal Pradesh"]
 categories = ["Cycling"]
 [[images]]
   src = "img/images/cycling-tour-mishmi-hills.jpg"
-  alt = "Mountain Range Through Clouds"
+  alt = "Cycling Tour in the Mishmi Hills"
   stretch = "horizontal"
-[[images]]
-  src = "img/2019/03/pic02.jpg"
-  alt = "Desert Scene"
-[[images]]
-  src = "img/2019/03/pic03.jpg"
-  alt = "Valley"
-  stretch = "horizontal"
+
 +++
 ---
 The Mishmi Hills is a southward extension of eastern most parts of the Great Himalayan Mountain Range - its high northern and eastern reaches touching China, whereas its southern parts fanning into the tropical forests of southwest China and Myanmar. On this tour we foray into the Dibang Valley district, named after the Dibang River - one of the key tributaries of the Brahmaputra. The Dibang originates in China and flows through the length of the valley in a north-south direction. Other river systems that flow through the area include the Ithun, Ason, Chipu, Aba, Iphi, Sisiri, Datung, and the Deopani River.

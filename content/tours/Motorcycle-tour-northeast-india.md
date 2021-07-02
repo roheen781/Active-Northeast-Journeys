@@ -7,7 +7,7 @@ tags = ["Tough", "4 states"]
 categories = ["Overland & Motorcycle"]
 [[images]]
   src = "img/images/Motorcycle-overland-tour-northeast-india.jpg"
-  alt = "Motorcycle and overland tour of Northeast India"
+  alt = "Motorcycle and overland tour of 4 states Northeast India"
   stretch = "horizontal"
 +++
 ---
@@ -33,13 +33,13 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 
 #### Highlights
 
-* The Garo, Khasi and Jaintia hills of Meghalaya
-* Wildlife Parks, Waterfalls, Caves, Root bridges
-* Visit the two wettest places on earth
-* Little known trails along the Indo-Bangla border
-* Indulge in a plethora of scumptious indigenous cuisine
-* Wide mix of riding conditions
-* Visit all the important locations of Meghalaya
+* The backroads of Assam, Arunachal Pradesh, Nagaland and Meghalaya
+* A myraid of Cultures
+* Eastern Himalayas, Brahmaputra valley, Naga Patkai, Khasi, Jaintia and Garo Hills
+* Riding conditions varying on a daily basis
+* Little used inner roads
+* The most consice overland tour of Northeast India
+* Culture, Cuisine, nature
 
 
 
@@ -62,9 +62,9 @@ During the tour we ride through territories of tribes such as the Nyshi, Apatani
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/Assam-Multi-activity-tour.jpg)
+![Overland-Motorcycle-tour-northeast- India](/img/images/Overland-Motorcycle-tour-northeast-india.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/motorcycle/)
 
 ---

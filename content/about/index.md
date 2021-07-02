@@ -14,3 +14,5 @@ Right from the onset our intent has been to make a difference, to be meaningful 
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/)
 
 ---
+#### Team at work
+![Team-north-by-northeast-journeys](/img/images/Team-North-by-Northeast.jpg)

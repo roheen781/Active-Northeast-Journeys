@@ -7,7 +7,7 @@ tags = ["Active", "Meghalaya"]
 categories = ["Family Adventure"]
 [[images]]
   src = "img/images/family-adventure-tour-meghalaya.jpg"
-  alt = "Mountain Range Through Clouds"
+  alt = "Family Adventure Tour in Meghalaya"
   stretch = "horizontal"
 +++
 ---
@@ -67,6 +67,6 @@ This holiday can be tailored to your family’s personal preferences, be it the 
 ![Family-adventure-holiday-meghalaya](/img/images/family-holiday-meghalaya.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/family/)
 
 ---

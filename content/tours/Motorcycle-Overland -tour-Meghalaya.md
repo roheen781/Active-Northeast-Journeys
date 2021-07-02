@@ -68,9 +68,9 @@ The route is quite flexible depending the duration you have in hand, level of in
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/Assam-Multi-activity-tour.jpg)
+![Motorcycle-overland-tour-meghalaya](/img/images/Motorcycle-Overland-Tour-Meghalaya.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/motorcycle/)
 
 ---

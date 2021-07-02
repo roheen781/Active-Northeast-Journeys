@@ -1,6 +1,6 @@
 +++
 title = "Multi-Activity holiday in Meghalaya"
-description = "Cycle tours across the northeast region of India"
+description = "Multi-Activity holiday in the Abode of Clouds: 6 to 10 days"
 weight = "9"
 
 tags = ["Moderate", "Meghalaya"]
@@ -67,9 +67,9 @@ The tour is quite flexible, we can mould the entire proceeding looking at your p
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/Multi-activity-holiday-meghalaya.jpg)
+![Multi-activity-holiday-in-Meghalaya](/img/images/Multi-activity-holiday-meghalaya.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/multiactivity/)
 
 ---

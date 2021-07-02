@@ -7,7 +7,7 @@ tags = ["Moderate to Tough","Meghalaya"]
 categories = ["Cycling"]
 [[images]]
   src = "img/images/Bicycle-tour-meghalaya.jpg"
-  alt = "Mountain Range Through Clouds"
+  alt = "Bicycle Tour of Meghalaya"
   stretch = "horizontal"
 +++
 ---

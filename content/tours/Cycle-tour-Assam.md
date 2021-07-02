@@ -67,7 +67,7 @@ This cycle tour of Assam takes you on both the banks of central Brahmaputra Vall
 
 ---
 #### Tour Images
-![Assam-Cycle-Tour-Topology](/img/images/Cycle-tour-assam.jpg)
+![Best-cycle-tour-Assam](/img/images/Cycle-tour-assam.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)

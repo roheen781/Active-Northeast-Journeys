@@ -6,8 +6,8 @@ weight = "3"
 tags = ["Comfort","Assam"]
 categories = ["Family Adventure"]
 [[images]]
-  src = "img/2019/03/5.jpg"
-  alt = "Mountain Range Through Clouds"
+  src = "img/images/Family-holiday-assam.jpg"
+  alt = "Family Holiday in Assam"
   stretch = "horizontal"
 +++
 
@@ -63,9 +63,9 @@ This holiday can be tailored to your family’s personal preferences, be it the 
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/family-tour-Assam.jpg)
+![Family-tour-Assam](/img/images/family-tour-Assam.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/family/)
 
 ---

@@ -6,7 +6,7 @@ tags = ["Easy", "Assam"]
 categories = ["Multi-Activity"]
 [[images]]
   src = "img/images/Multi-activity-holiday-assam.jpg"
-  alt = "Adventure,nature and culture tour Assam"
+  alt = "Adventure, nature and culture tour Assam"
   stretch = "horizontal"
 +++
 
@@ -63,9 +63,9 @@ On this tour we will indulge in short day cycling and hiking forays. Explore the
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/Assam-Multi-activity-tour.jpg)
+![RMulti-activity-tour-of-Assam](/img/images/Assam-Multi-activity-tour.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/multiactivity/)
 
 ---

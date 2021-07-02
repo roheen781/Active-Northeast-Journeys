@@ -7,7 +7,7 @@ tags = ["Active", "Arunachal Pradesh"]
 categories = ["Family Adventure"]
 [[images]]
   src = "img/images/Family-tour-Arunachal-Pradesh.jpg"
-  alt = "Mountain Range Through Clouds"
+  alt = "Family tour in Arunachal Pradesh"
   stretch = "horizontal"
 +++
 
@@ -68,6 +68,6 @@ This holiday can be tailored to your family’s personal preferences, be it the 
 ![Family-adventure-holiday-arunachal-pradesh](/img/images/family-holiday-eastern-arunachal-pradesh.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/family/)
 
 ---

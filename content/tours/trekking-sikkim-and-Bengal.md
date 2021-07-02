@@ -7,7 +7,7 @@ tags = ["Trekking","Sikkim & Bengal"]
 categories = ["Treks & Walks"]
 [[images]]
   src = "img/images/Singalila-barsey-trek-sikkim.jpg"
-  alt = "Walking Holiday in Meghalaya"
+  alt = "Singalila Ridge & Barsey Sanctuary trek Sikkim"
   stretch = "horizontal"
 +++
 ---
@@ -65,7 +65,7 @@ This trek can be quite flexible in duration without losing its charms. Please wr
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/trekking-singalila-barsey-sikkim.jpg)
+![Singalila-Barsey-trek-Sikkim](/img/images/trekking-singalila-barsey-sikkim.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)

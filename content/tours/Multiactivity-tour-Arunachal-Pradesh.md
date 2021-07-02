@@ -1,6 +1,6 @@
 +++
 title = "Multi-Activity holiday in Arunachal Pradesh"
-description = "Cycle tours across the northeast region of India"
+description = "Multi-activity holiday in Arunachal Pradesh: 6 to 12 days"
 weight = "4"
 
 tags = ["Moderate", "Arunachal Pradesh"]
@@ -65,9 +65,9 @@ Authentic interactions, local cuisine, history and lifestyle of the tribes etc a
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/multi-activity-tour-arunachal-pradesh.jpg)
+![Multi-activity-tour-in-Arunachal-Pradesh](/img/images/multi-activity-tour-arunachal-pradesh.jpg)
 
 ---
-###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
+###### [*Head over to our main site for more details >>*](https://nnejourneys.com/multiactivity/)
 
 ---

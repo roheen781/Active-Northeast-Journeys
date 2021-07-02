@@ -64,7 +64,7 @@ This region is known as the eastern gateway to Tibet, an age old trading route b
 ---
 #### Tour Images
 
-![Rainforest-trek-in-Arunachal-Pradesh](/img/images/trekking-in-western-arunachal-pradesh.jpg)
+![high-altitude-trek-in-Arunachal-Pradesh](/img/images/trekking-in-western-arunachal-pradesh.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/treks/)
