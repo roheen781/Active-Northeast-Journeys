@@ -1,6 +1,6 @@
 +++
 title = "Bicycle Tour of Eastern Arunachal Pradesh"
-description = "Cycling tour in Watershed of the Brahmaputra: 5 to 12 days"
+description = "Cycling in Eastern Arunachal Pradesh: Watershed of the Brahmaputra | 6 to 12 days"
 weight = "6"
 
 tags = ["Easy to Moderate","Arunachal Pradesh"]
@@ -22,8 +22,8 @@ This particular part of Arunachal Pradesh is where the three easternmost tributa
 
 #### Overview
 
-* **Level:** Moderate
-* **Total Days:** 5 – 12
+* **Level:** Easy to Moderate
+* **Total Days:** 6 – 12
 * **Max. Cycling distance:** Upto 500 Km
 * **Avg. Cycling Distance:** 60 Km
 * **Terrain:** 90 % plain
@@ -64,7 +64,7 @@ This particular part of Arunachal Pradesh is where the three easternmost tributa
 
 ---
 #### Tour Images
-![Cycling-tour-eastern-arunachal-pradesh](/img/images/Cycling-tour-eastern-arunachal-pradesh.jpg)
+![Cycling tour of eastern arunachal pradesh](/img/images/Cycling-tour-eastern-arunachal-pradesh.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)

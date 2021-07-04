@@ -1,6 +1,6 @@
 +++
 title = "Bicycle Tour of the Mishmi Hills"
-description = "Cycle tours in the Mishmi Hills of Arunachal Pradesh: 10 to 15 days"
+description = "Cycling holiday in the Mishmi Hills of Arunachal Pradesh | 11 to 15 days"
 weight = "16"
 
 tags = ["Tough","Arunachal Pradesh"]
@@ -25,7 +25,7 @@ The Dibang Valley district is divided into Lower and Upper Dibang Valley. ). In 
 #### Overview
 
 * **Level:** Tough
-* **Total Duration:** 10 to 15
+* **Total Duration:** 11 to 15
 * **Max. Cycling distance:** Upto 650 Km
 * **Avg. Cycling Distance:** 60 Km
 * **Terrain:** 70% Hilly / Mountanious
@@ -67,7 +67,7 @@ The Dibang Valley district is divided into Lower and Upper Dibang Valley. ). In 
 
 ---
 #### Tour Images
-![Cycling-tour-mishmi-hills-arunachal-pradesh](/img/images/Cycling-tour-mishmi-hills-arunachal-pradesh.jpg)
+![Cycling tour in The Mishmi hills-Arunachal Pradesh](/img/images/Cycling-tour-mishmi-hills-arunachal-pradesh.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)

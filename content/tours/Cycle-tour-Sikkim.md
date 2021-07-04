@@ -1,6 +1,6 @@
 +++
 title = "Bicycle Tour of Sikkim & West Bengal"
-description = "The Monastic Trail Cycle tour in Sikkim & Bengal: 9 to 15 days"
+description = "The Monastic Trail: Cycle tour in Sikkim & Bengal | 9 to 15 days"
 weight = "19"
 
 tags = ["Moderate to Tough","Sikkim & Bengal"]
@@ -64,7 +64,7 @@ This particular tour takes you from Darjeeling in west bengal to the south and w
 
 ---
 #### Tour Images
-![Cycling-holiday-in-sikkim](/img/images/cycling-holiday-in-sikkim.jpg)
+![Cycling holiday in sikkim](/img/images/cycling-holiday-in-sikkim.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)

@@ -1,6 +1,6 @@
 +++
 title = "Bicycle Tour of Western Arunachal Pradesh"
-description = "Cycle tour in Western Arunachal Pradesh: 9 to 15 days"
+description = "Cycle tour of Western Arunachal Pradesh | 9 to 15 days"
 weight = "18"
 
 tags = ["Tough","Arunachal Pradesh"]
@@ -64,7 +64,7 @@ This cycle tour of Arunachal Pradesh takes you all the way to the end of the roa
 
 ---
 #### Tour Images
-![Cycling-tour-tawang-arunachal-pradesh](/img/images/cycle-tour-tawang-arunachal-pradesh.jpg)
+![Cycling tour of tawang-Arunachal-Pradesh](/img/images/cycle-tour-tawang-arunachal-pradesh.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)

@@ -6,7 +6,7 @@ weight = "2"
 tags = ["Walking","Meghalaya"]
 categories = ["Treks & Walks"]
 [[images]]
-  src = "img/2019/03/walking-holiday-meghalaya.jpg"
+  src = "img/images/walking-holiday-meghalaya.jpg"
   alt = "Walking Holiday in Meghalaya"
   stretch = "horizontal"
 +++

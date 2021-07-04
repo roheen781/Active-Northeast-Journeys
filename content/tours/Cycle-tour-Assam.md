@@ -1,6 +1,6 @@
 +++
 title = "Bicycle Tour of Assam"
-description = "The Brahmaputra Explorer: 5 - 10 days"
+description = "Assam on Cycles: The Brahmaputra Valley | 6 - 15 days"
 weight = "1"
 
 tags = ["Easy","Assam"]
@@ -25,10 +25,10 @@ This cycle tour of Assam takes you on both the banks of central Brahmaputra Vall
 #### Overview
 
 * **Level:** Easy to Moderate
-* **Total Days:** 5 – 12
-* **Max. Cycling distance:** Upto 500 Km
-* **Avg. Cycling Distance:** 60 Km
-* **Terrain:** 100 % plains
+* **Total Days:** 6 – 15
+* **Max. Cycling distance:** Upto 650 Km
+* **Avg. Cycling Distance:** 70 Km
+* **Terrain:** 90 % plains
 * **Altitude variation:** 50 to 800 mts
 * **Best Time:** October to March
 * **Airport In:** Guwahati (Assam)
@@ -67,7 +67,7 @@ This cycle tour of Assam takes you on both the banks of central Brahmaputra Vall
 
 ---
 #### Tour Images
-![Best-cycle-tour-Assam](/img/images/Cycle-tour-assam.jpg)
+![Best cycle tour of Assam](/img/images/Cycle-tour-assam.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://www.nnejourneys.com/cycling/)
