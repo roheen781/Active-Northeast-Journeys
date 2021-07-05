@@ -1,6 +1,6 @@
 +++
 title = "Family holiday in Assam"
-description = "Jewels of the Brahmaputra valley: 6 to 10 days"
+description = "Jewels of the Brahmaputra valley: Family Adventure in Assam | 6 to 10 days"
 weight = "3"
 
 tags = ["Comfort","Assam"]

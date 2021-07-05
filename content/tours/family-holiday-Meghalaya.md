@@ -1,6 +1,6 @@
 +++
 title = "Family holiday Meghalaya"
-description = "Natures Amusement Park: 6 to 9 days"
+description = "Natures Amusement Park: Family Adventure in Meghalaya | 6 to 9 days"
 weight = "8"
 
 tags = ["Active", "Meghalaya"]

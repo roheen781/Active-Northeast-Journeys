@@ -1,6 +1,6 @@
 +++
 title = "Family holiday in Arunachal Pradesh"
-description = "Family adventure in India's far east: 5 to 8 days"
+description = "Family adventure in India's far east: Arunachal Pradesh | 5 to 8 days"
 weight = "13"
 
 tags = ["Active", "Arunachal Pradesh"]
