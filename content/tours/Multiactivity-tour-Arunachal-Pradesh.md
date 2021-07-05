@@ -1,6 +1,6 @@
 +++
 title = "Multi-Activity holiday in Arunachal Pradesh"
-description = "Multi-activity holiday in Arunachal Pradesh: 6 to 12 days"
+description = "Multi-activity holiday in Arunachal Pradesh: Hike, Cycle, Raft , Culture | 6 to 12 days"
 weight = "4"
 
 tags = ["Moderate", "Arunachal Pradesh"]

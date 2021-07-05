@@ -1,13 +1,13 @@
 +++
 title = "Multi-Activity holiday in Meghalaya"
-description = "Multi-Activity holiday in the Abode of Clouds: 6 to 10 days"
+description = "Multi-Activity holiday in the Abode of Clouds: Hike, Cycle, Culture | 6 to 10 days"
 weight = "9"
 
 tags = ["Moderate", "Meghalaya"]
 categories = ["Multi-Activity"]
 [[images]]
   src = "img/images/Multi-activity-tour-meghalaya.jpg"
-  alt = "Multi-activity tour of Meghalaya"
+  alt = "Multi-activity tour of Meghalaya | cycle, hike and culture in Meghalaya"
   stretch = "horizontal"
 +++
 

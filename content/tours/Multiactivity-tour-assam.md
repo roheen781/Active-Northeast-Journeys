@@ -1,6 +1,6 @@
 +++
 title = "Multi-Activity holiday in Assam"
-description = "Adventure, Nature, Culture tour of Assam: 6 to 10 days"
+description = "Adventure, Nature, Culture tour of Assam | 6 to 12 days"
 
 tags = ["Easy", "Assam"]
 categories = ["Multi-Activity"]
@@ -46,7 +46,7 @@ On this tour we will indulge in short day cycling and hiking forays. Explore the
 
 #### Accommodation
 
-* **Accommodation:**  TEa Bungalows, Eco Lodges & Camping
+* **Accommodation:**  Tea Bungalows, Eco Lodges & Camping
 * **Meals:** As much as possibly we try cover all the local cuisines
 * **Refreshments & Water:** High energy snacks and Water during activities
 
@@ -63,7 +63,7 @@ On this tour we will indulge in short day cycling and hiking forays. Explore the
 ---
 #### Tour Images
 
-![RMulti-activity-tour-of-Assam](/img/images/Assam-Multi-activity-tour.jpg)
+![Multi-activity tour of Assam](/img/images/Assam-Multi-activity-tour.jpg)
 
 ---
 ###### [*Head over to our main site for more details >>*](https://nnejourneys.com/multiactivity/)

@@ -9,9 +9,7 @@ weight = "1"
   stretch = "horizontal"
 +++
 ---
-Active-Northeast is an initiative of [**North by Northeast Journeys**](https://www.nnejourneys.com), one of the first to operate active tours in the region.
-
-For the past decade we have actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India include Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventures, Wildlife, Culture and Youth travel , all of which have local history, culture, interactions and the environment as their centerpiece. Although, most of our tours are activity based, our true focus lies on the people, the culture and environment of this region.
+Active-Northeast is an initiative of [**North by Northeast Journeys**](https://www.nnejourneys.com), one of the first to operate active tours in the region. For the past decade we have actively worked towards facilitating experiential travel which is Active, Interactive and Authentic in its truest form. Our tours of Northeast India include Cycling, Treks & Walks, Motorcycle & Overland, Multi-Activity, Family Adventures, Wildlife, Culture and Youth travel , all of which have local history, culture, interactions and the environment as their centerpiece. Although, most of our tours are activity based, our true focus lies on the people, the culture and environment of this region.
 
 
 
