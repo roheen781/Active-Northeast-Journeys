@@ -1,358 +1,202 @@
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-  <loc>https://activenortheast.in/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/about/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/contact/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/active-holidays-northeast-india/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tour-assam/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/cycling/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/easy/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/assam/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/river-trip-northeast-india/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/river-trip/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/easy-to-moderate/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/walking-tour-meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/treks-walks/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/walking/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/family-holiday-assam/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/family-adventure/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/comfort/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/page/2/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/multi-activity/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/overland-motorcycle/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/multiactivity-tour-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/motorcycle-overland-tour-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tour-eastern-arunachal_pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/walking-tour-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/page/2/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tour-meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/moderate-to-tough/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tours-mishmi-hills-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/tough/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tour-western-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/categories/cycling/page/2/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/multiactivity-tour-assam/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/motorcycle-overland-tour-meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/moderate/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/moderate-to-strenuous/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/arunachal-pradesh/page/2/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/rainforest-trek-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/trekking/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/trekking-sikkim-and-bengal/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/sikkim-bengal/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/trekking-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/family-holiday-meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/active/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/multiactivity-tour-meghalaya/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/family-holiday-arunachal-pradesh/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/page/3/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/motorcycle-tour-northeast-india/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tags/4-states/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/page/3/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/cycle-tour-sikkim/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/page/4/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/page/4/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/page/5/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://activenortheast.in/tours/page/5/</loc>
-  <lastmod>2021-07-05T07:12:49+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.33</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/tours/active-holidays-northeast-india/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tour-assam/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/river-trip-northeast-india/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/walking-tour-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/family-holiday-assam/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/multiactivity-tour-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/motorcycle-overland-tour-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tour-eastern-arunachal_pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/walking-tour-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/family-holiday-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/multiactivity-tour-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/motorcycle-overland-tour-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tour-meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/rainforest-trek-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/family-holiday-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/motorcycle-tour-northeast-india/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tours-mishmi-hills-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tour-western-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/cycle-tour-sikkim/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/trekking-sikkim-and-bengal/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/trekking-arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/4-states/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/active/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/arunachal-pradesh/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/assam/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/comfort/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/cycling/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/easy/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/easy-to-moderate/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/family-adventure/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/meghalaya/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/moderate/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/moderate-to-strenuous/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/moderate-to-tough/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/multi-activity/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/multiactivity-tour-assam/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/overland-motorcycle/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/river-trip/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/sikkim-bengal/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tough/</loc>
+  </url>
+  
+  <url>
+    <loc>/tours/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/trekking/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/treks-walks/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/walking/</loc>
+  </url>
+  
 </urlset>
